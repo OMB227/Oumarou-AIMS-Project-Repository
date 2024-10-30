@@ -19,4 +19,4 @@ operations planners could use to quantify their network distances not only in te
 cost but also in terms of CO2 emissions and communicability distance. Our study have demonstrated
 that by tuning these parameters, it is possible to get various different profiles in the distances between
 destinations in a network.Amongst other.
-For more information : **contact:moussabolaoumarou99@gmail.com**
+For more information : **contact:oumarou@aims.ac.za**
