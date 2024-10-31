@@ -1,6 +1,6 @@
 Title= Optimizing Cost in Transportation Network
-Project Supervisor: Dr. Philip knight 
-Author: Oumarou Moussa BOla
+Project Supervisor: Dr.Philip Knight, University of Strathclyde
+Author: Oumarou Moussa Bola
 Guidelines: In this repository, you will find one of 6 notebook related to this project. This notebook deals 
 with the paris dataset analysis and is structurally similar to the other 6 notebook.
 You will find : 
