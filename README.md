@@ -11,7 +11,7 @@ You will find :
                                   "Project Objective and some finding"
 In this project our objective was to propose methods and techniques that address inefficiency encountered
 in global transportation network design. Indeed, we carried out studies of relevant measures of network
-distances and implement them in Python to analyze how they perform on various transportation network
+distances and implemented them in Python to analyze how they perform on various transportation network
 datasets. For instance we have shown that the resistance metric can be used to capture both well-
 connected hubs and help identify areas in a network that may benefit from increased connectivity or
 efficiency improvements. We have introduced a new tunable hybrid metric that urban planner or airline
