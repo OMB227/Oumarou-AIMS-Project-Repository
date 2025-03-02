@@ -22,7 +22,7 @@ Inside this repository, you will find:
 ### Problem Definition
 Transportation networks often lack optimal efficiency, leading to increased travel costs, congestion, and environmental impacts like CO₂ emissions. The goal of this study is to explore network distance metrics and develop strategies to optimize these networks, making them more cost-effective and sustainable.
 
-### Communicability Metric
+### Communicability Metric (Detailed proof can be found in the related report)
 The **communicability function** measures how effectively information or movement propagates between nodes in a network. It is computed using the spectral decomposition of the adjacency matrix `A`:
    
    ```math
@@ -38,7 +38,9 @@ The communicability **distance metric** is then defined as:
    ```
    
 where $C_{pp}$ and $C_{qq}$ measure self-communicability, while $C_{pq}$ measures the interaction between nodes `p` and `q`. 
-**Proof that Communicability Distance is Euclidean:**
+
+**Proof that Communicability Distance is Euclidean:** 
+
 Using the spectral decomposition of `A`, we rewrite $C_{pq}$ as:
    
    ```math
@@ -53,7 +55,7 @@ Thus, the communicability distance satisfies:
    
 where $x_p = e^{\Delta/2} \phi_p$, proving that the communicability distance is Euclidean.
 
-### Hybrid Distance Measure
+### Hybrid Distance Measure (Detailed proof can be found in the related report)
 To address inefficiencies in transportation networks, we introduce a **hybrid metric** that incorporates:
 - **Traditional shortest-path distance ($d_{pq}$)**
 - **CO₂ emissions per trip ( $d_{CO_2}(p, q)$ )**
