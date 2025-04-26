@@ -112,6 +112,6 @@ Our primary objective is to explore and develop techniques that improve the effi
 ## Contact
 For more information, feel free to reach out:
 📧 **oumarou@aims.ac.za**  
-🔗 **Repository**: [GitHub Repository](https://github.com/OMB227/Oumarou-AIMS-Project-Repository.git)
+<!--🔗 **Repository**: [GitHub Repository](https://github.com/OMB227/Oumarou-AIMS-Project-Repository.git)-->
 
 
